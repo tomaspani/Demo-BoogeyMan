@@ -11,6 +11,8 @@ public class WaypointMover : MonoBehaviour
 
     private Transform currentWaypoint;
 
+    private FieldOfView _fov;
+
 
     private void Start()
     {
@@ -19,6 +21,7 @@ public class WaypointMover : MonoBehaviour
 
         currentWaypoint = waypoints.getNextWaypoint(currentWaypoint);
 
+        _fov = this.GetComponent<FieldOfView>();
         
     }
 
@@ -31,5 +34,22 @@ public class WaypointMover : MonoBehaviour
             transform.LookAt(currentWaypoint);
 
         }
+
+        canSeePlayer();
+        
     }
+
+    private void canSeePlayer()
+    {
+        
+        if (_fov.canSeePlayer)
+        {
+            transform.LookAt(_fov.playerRef.transform);
+            movSpeed = 0f;
+        }
+        else
+            movSpeed = 5f;
+    }
+
+    
 }

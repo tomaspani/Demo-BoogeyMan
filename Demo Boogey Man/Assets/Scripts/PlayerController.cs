@@ -9,6 +9,8 @@ public class PlayerController : MonoBehaviour
 
     private CharacterController controller;
 
+    public float suspicion;
+
     private void Start()
     {
         controller = FindObjectOfType<CharacterController>();
@@ -41,6 +43,19 @@ public class PlayerController : MonoBehaviour
                 kidnap(other.GetComponent<KidController>());
             }
         }
+    }
+
+    public void addSuspicion(float val)
+    {
+        suspicion += val;
+        Debug.Log("suspicion =" +suspicion);
+
+    }
+
+    public void looseSuspicion(float val)
+    {
+        suspicion -= val;
+        Debug.Log("suspicion =" + suspicion);
     }
 
 
