@@ -55,6 +55,10 @@ public class PlayerController : MonoBehaviour
     public void looseSuspicion(float val)
     {
         suspicion -= val;
+        if(suspicion < 0)
+        {
+            suspicion = 0;
+        }
         Debug.Log("suspicion =" + suspicion);
     }
 
