@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - kid
+  - bed
+  - bedCamera
   layers:
   - Default
   - TransparentFX

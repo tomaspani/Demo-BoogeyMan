@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
@@ -8,8 +9,10 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float speed;
 
     private CharacterController controller;
+    public Camera mainCamera;
 
     public float suspicion;
+    public Text text;
 
     private void Start()
     {
@@ -43,12 +46,14 @@ public class PlayerController : MonoBehaviour
                 kidnap(other.GetComponent<KidController>());
             }
         }
+        
     }
+
+   
 
     public void addSuspicion(float val)
     {
         suspicion += val;
-        Debug.Log("suspicion =" +suspicion);
 
     }
 
@@ -59,8 +64,8 @@ public class PlayerController : MonoBehaviour
         {
             suspicion = 0;
         }
-        Debug.Log("suspicion =" + suspicion);
     }
 
+    
 
 }
