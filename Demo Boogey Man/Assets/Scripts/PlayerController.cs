@@ -12,6 +12,7 @@ public class PlayerController : MonoBehaviour
     public Camera mainCamera;
 
     public float suspicion;
+    public int kidnappedKids; 
     public Text text;
 
     private void Start()
@@ -32,6 +33,7 @@ public class PlayerController : MonoBehaviour
 
     void kidnap (KidController kid)
     {
+        kidnappedKids++;
         kid.kidnap();
     }
 
@@ -54,17 +56,19 @@ public class PlayerController : MonoBehaviour
     public void addSuspicion(float val)
     {
         suspicion += val;
+      
 
     }
 
     public void looseSuspicion(float val)
     {
         suspicion -= val;
-        if(suspicion < 0)
+        if(suspicion < 0f)
         {
-            suspicion = 0;
+            suspicion = 0f;
         }
     }
+
 
     
 
