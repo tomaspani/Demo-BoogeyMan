@@ -62,6 +62,7 @@
     <Compile Include="Assets\Scripts\FieldOfView.cs" />
     <Compile Include="Assets\Scripts\UIManager.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\ThrowObject.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
