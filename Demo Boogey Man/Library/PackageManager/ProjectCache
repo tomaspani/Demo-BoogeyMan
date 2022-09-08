@@ -1,22 +1,22 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/Nacho/Desktop/Tarea-Libros/Game jam/Demo-BoogeyMan/Demo
-      Boogey Man/Packages/manifest.json
+    m_FilePath: C:/Users/usuario/OneDrive/Documentos/GitHub/Demo-BoogeyMan/Demo Boogey
+      Man/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637978421697058441
-    m_Hash: 659951101
+      ticks: 637982649860132943
+    m_Hash: 3889233051
   m_LockFileStatus:
-    m_FilePath: C:/Users/Nacho/Desktop/Tarea-Libros/Game jam/Demo-BoogeyMan/Demo
-      Boogey Man/Packages/packages-lock.json
+    m_FilePath: C:/Users/usuario/OneDrive/Documentos/GitHub/Demo-BoogeyMan/Demo Boogey
+      Man/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637978421697058441
-    m_Hash: 1413613287
+      ticks: 637982649860215100
+    m_Hash: 1446736100
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -27,7 +27,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.15.4
       source: 1
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.collab-proxy@1.15.4
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
@@ -181,7 +181,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
@@ -301,7 +301,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.12
       source: 1
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.ide.visualstudio@2.0.12
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
@@ -397,7 +397,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.4
       source: 1
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.ide.vscode@1.2.4
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
@@ -466,12 +466,234 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/com.unity.ide.vscode.git
         revision: 1f4f605d5c988cb610c372b5c5216c46cc8f5d30
         path: 
+    - packageId: com.unity.quicksearch@2.0.2
+      testable: 0
+      isDirectDependency: 1
+      version: 2.0.2
+      source: 1
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
+        Boogey Man\Library\PackageCache\com.unity.quicksearch@2.0.2
+      assetPath: Packages/com.unity.quicksearch
+      name: com.unity.quicksearch
+      displayName: Quick Search
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'Search multiple areas of Unity: assets, scene objects, menu items,
+        packages, APIs, settings, etc.
+
+
+        On Windows simply press Alt+'' to
+        find anything or Option+'' on Mac.
+
+        Look in the shortcut manager
+        for additional Quick Search shortcut bindings.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.9.5-preview.1
+        - 0.9.6-preview.1
+        - 0.9.7-preview.3
+        - 0.9.9-preview.2
+        - 0.9.95-preview
+        - 1.0.0-preview.2
+        - 1.0.1-preview.1
+        - 1.0.9-preview.2
+        - 1.1.0-preview.1
+        - 1.2.0-preview.1
+        - 1.2.1-preview
+        - 1.2.2-preview
+        - 1.2.3-preview
+        - 1.2.4-preview
+        - 1.2.6-preview
+        - 1.2.7-preview
+        - 1.2.8-preview
+        - 1.2.9-preview
+        - 1.3.0-preview
+        - 1.3.1-preview
+        - 1.3.2-preview
+        - 1.4.1
+        - 1.4.2-preview.1
+        - 1.4.2-preview.2
+        - 1.4.2-preview.3
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.0-preview.6
+        - 1.5.0
+        - 1.5.1
+        - 1.5.2-preview.1
+        - 1.5.2-preview.2
+        - 1.5.2
+        - 1.5.3
+        - 1.5.4
+        - 1.6.0-preview.1
+        - 1.6.0-preview.2
+        - 1.6.0-preview.3
+        - 1.6.0-preview.4
+        - 1.6.0-preview.5
+        - 1.6.0-preview.6
+        - 1.6.0-preview.7
+        - 1.6.0-preview.8
+        - 1.6.0-preview.9
+        - 2.0.0
+        - 2.0.2
+        - 2.1.0-preview.1
+        - 2.1.0-preview.2
+        - 2.1.0-preview.3
+        - 2.1.0-preview.4
+        - 2.1.0-preview.5
+        - 3.0.0-preview.1
+        - 3.0.0-preview.2
+        - 3.0.0-preview.3
+        - 3.0.0-preview.5
+        - 3.0.0-preview.6
+        - 3.0.0-preview.7
+        - 3.0.0-preview.8
+        - 3.0.0-preview.9
+        - 3.0.0-preview.10
+        - 3.0.0-preview.11
+        - 3.0.0-preview.12
+        - 3.0.0-preview.13
+        - 3.0.0-preview.14
+        - 3.0.0-preview.15
+        - 3.0.0-preview.16
+        - 3.0.0-preview.17
+        - 3.0.0-preview.18
+        - 3.0.0-preview.19
+        - 3.0.0-preview.20
+        - 3.0.0-preview.21
+        - 3.0.0-preview.22
+        - 3.0.0-preview.23
+        - 3.0.0-preview.24
+        - 3.0.0-preview.25
+        compatible:
+        - 0.9.5-preview.1
+        - 0.9.6-preview.1
+        - 0.9.7-preview.3
+        - 0.9.9-preview.2
+        - 0.9.95-preview
+        - 1.0.0-preview.2
+        - 1.0.1-preview.1
+        - 1.0.9-preview.2
+        - 1.1.0-preview.1
+        - 1.2.0-preview.1
+        - 1.2.1-preview
+        - 1.2.2-preview
+        - 1.2.3-preview
+        - 1.2.4-preview
+        - 1.2.6-preview
+        - 1.2.7-preview
+        - 1.2.8-preview
+        - 1.2.9-preview
+        - 1.3.0-preview
+        - 1.3.1-preview
+        - 1.3.2-preview
+        - 1.4.1
+        - 1.4.2-preview.1
+        - 1.4.2-preview.2
+        - 1.4.2-preview.3
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.0-preview.6
+        - 1.5.0
+        - 1.5.1
+        - 1.5.2-preview.1
+        - 1.5.2-preview.2
+        - 1.5.2
+        - 1.5.3
+        - 1.5.4
+        - 1.6.0-preview.1
+        - 1.6.0-preview.2
+        - 1.6.0-preview.3
+        - 1.6.0-preview.4
+        - 1.6.0-preview.5
+        - 1.6.0-preview.6
+        - 1.6.0-preview.7
+        - 1.6.0-preview.8
+        - 1.6.0-preview.9
+        - 2.0.0
+        - 2.0.2
+        - 2.1.0-preview.1
+        - 2.1.0-preview.2
+        - 2.1.0-preview.3
+        - 2.1.0-preview.4
+        - 2.1.0-preview.5
+        - 3.0.0-preview.1
+        - 3.0.0-preview.2
+        - 3.0.0-preview.3
+        - 3.0.0-preview.5
+        - 3.0.0-preview.6
+        - 3.0.0-preview.7
+        - 3.0.0-preview.8
+        - 3.0.0-preview.9
+        - 3.0.0-preview.10
+        - 3.0.0-preview.11
+        - 3.0.0-preview.12
+        - 3.0.0-preview.13
+        - 3.0.0-preview.14
+        - 3.0.0-preview.15
+        - 3.0.0-preview.16
+        - 3.0.0-preview.17
+        - 3.0.0-preview.18
+        - 3.0.0-preview.19
+        - 3.0.0-preview.20
+        - 3.0.0-preview.21
+        - 3.0.0-preview.22
+        - 3.0.0-preview.23
+        - 3.0.0-preview.24
+        - 3.0.0-preview.25
+        verified: 2.0.2
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - unity
+      - editor
+      - omni
+      - tool
+      - quick
+      - search
+      - assets
+      - menu
+      - scene
+      - api
+      - packages
+      - anything
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637293829350000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.quicksearch.git
+        revision: 4d5c0f54be26662a75c6c9d71d0f5354d4379fe8
+        path: 
     - packageId: com.unity.test-framework@1.1.29
       testable: 0
       isDirectDependency: 1
       version: 1.1.29
       source: 1
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.test-framework@1.1.29
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
@@ -575,7 +797,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
@@ -742,7 +964,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
@@ -909,7 +1131,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.ugui@1.0.0
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
@@ -973,7 +1195,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.ai@1.0.0
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
@@ -1022,7 +1244,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.androidjni@1.0.0
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
@@ -1071,7 +1293,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.animation@1.0.0
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
@@ -1120,7 +1342,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
@@ -1169,7 +1391,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.audio@1.0.0
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
@@ -1218,7 +1440,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.cloth@1.0.0
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
@@ -1271,7 +1493,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.director@1.0.0
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
@@ -1328,7 +1550,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
@@ -1378,7 +1600,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.imgui@1.0.0
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
@@ -1427,7 +1649,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
@@ -1476,7 +1698,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
@@ -1525,7 +1747,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.physics@1.0.0
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
@@ -1574,7 +1796,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.physics2d@1.0.0
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
@@ -1623,7 +1845,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.screencapture@1.0.0
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
@@ -1676,7 +1898,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.terrain@1.0.0
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
@@ -1725,7 +1947,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
@@ -1782,7 +2004,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.tilemap@1.0.0
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
@@ -1835,7 +2057,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.ui@1.0.0
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
@@ -1884,7 +2106,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.uielements@1.0.0
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
@@ -1949,7 +2171,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.umbra@1.0.0
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
@@ -1998,7 +2220,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
@@ -2055,7 +2277,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
@@ -2104,7 +2326,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
@@ -2161,7 +2383,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
@@ -2218,7 +2440,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
@@ -2275,7 +2497,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
@@ -2348,7 +2570,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.vehicles@1.0.0
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
@@ -2401,7 +2623,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.video@1.0.0
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
@@ -2462,7 +2684,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.vr@1.0.0
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
@@ -2525,7 +2747,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.wind@1.0.0
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
@@ -2574,7 +2796,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.xr@1.0.0
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
@@ -2635,7 +2857,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.subsystems@1.0.0
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
@@ -2688,7 +2910,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
@@ -2748,7 +2970,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
@@ -2771,6 +2993,8 @@ m_PackageAssets:
         - 1.0.0
         - 1.0.5
         - 1.0.6
+        - 2.0.2
+        - 2.0.3
         compatible:
         - 0.1.5-preview
         - 0.1.6-preview
@@ -2778,6 +3002,8 @@ m_PackageAssets:
         - 1.0.0
         - 1.0.5
         - 1.0.6
+        - 2.0.2
+        - 2.0.3
         verified: 1.0.6
       dependencies: []
       resolvedDependencies: []
@@ -2810,7 +3036,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.0.0
       source: 1
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
@@ -2820,7 +3046,7 @@ m_PackageAssets:
         email: 
         url: 
       category: 
-      type: library
+      type: 
       description: 'Newtonsoft Json for use in Unity projects and Unity packages.
         Currently synced to version 12.0.2.
 
@@ -2835,10 +3061,34 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.1-preview.1
+        - 1.1.2
+        - 2.0.0-preview
+        - 2.0.0-preview.1
+        - 2.0.0-preview.2
         - 2.0.0
+        - 2.0.1-preview.1
+        - 2.0.2
+        - 3.0.1
+        - 3.0.2
         compatible:
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.1-preview.1
+        - 1.1.2
+        - 2.0.0-preview
+        - 2.0.0-preview.1
+        - 2.0.0-preview.2
         - 2.0.0
-        verified: 2.0.0
+        - 2.0.1-preview.1
+        - 2.0.2
+        - 3.0.1
+        - 3.0.2
+        verified: 2.0.2
       dependencies: []
       resolvedDependencies: []
       keywords: []
@@ -2854,7 +3104,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637237898320000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -2867,7 +3117,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.1
       source: 1
-      resolvedPath: C:\Users\Nacho\Desktop\Tarea-Libros\Game jam\Demo-BoogeyMan\Demo
+      resolvedPath: C:\Users\usuario\OneDrive\Documentos\GitHub\Demo-BoogeyMan\Demo
         Boogey Man\Library\PackageCache\com.unity.services.core@1.0.1
       assetPath: Packages/com.unity.services.core
       name: com.unity.services.core
@@ -2888,8 +3138,34 @@ m_PackageAssets:
       versions:
         all:
         - 1.0.1
+        - 1.1.0-pre.7
+        - 1.1.0-pre.8
+        - 1.1.0-pre.9
+        - 1.1.0-pre.10
+        - 1.1.0-pre.11
+        - 1.1.0-pre.41
+        - 1.1.0-pre.69
+        - 1.2.0
+        - 1.3.1
+        - 1.3.2
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
         compatible:
         - 1.0.1
+        - 1.1.0-pre.7
+        - 1.1.0-pre.8
+        - 1.1.0-pre.9
+        - 1.1.0-pre.10
+        - 1.1.0-pre.11
+        - 1.1.0-pre.41
+        - 1.1.0-pre.69
+        - 1.2.0
+        - 1.3.1
+        - 1.3.2
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
         verified: 1.0.1
       dependencies:
       - name: com.unity.modules.unitywebrequest
@@ -2910,7 +3186,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637604883250000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -2920,6 +3196,6 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/Nacho/Desktop/Tarea-Libros/Game jam/Demo-BoogeyMan/Demo Boogey
+m_ProjectPath: C:/Users/usuario/OneDrive/Documentos/GitHub/Demo-BoogeyMan/Demo Boogey
   Man/Packages
 m_EditorVersion: 2020.3.25f1 (9b9180224418)
