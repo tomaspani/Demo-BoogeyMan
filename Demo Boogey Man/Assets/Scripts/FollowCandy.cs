@@ -17,7 +17,7 @@ public class FollowCandy : MonoBehaviour
         TargetedCandy = NearestCandy();
         Distance = Vector3.Distance(this.transform.position, TargetedCandy.transform.position);
         if (Distance < FollowDistance)
-        { ChaseCandy(); }
+        {ChaseCandy();}
        
         
     }
