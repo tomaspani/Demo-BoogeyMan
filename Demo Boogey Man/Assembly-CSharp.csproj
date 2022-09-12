@@ -54,6 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\KidController.cs" />
+    <Compile Include="Assets\Scripts\DestroyCandy.cs" />
     <Compile Include="Assets\Scripts\WaypointMover.cs" />
     <Compile Include="Assets\Scripts\FollowCandy.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
@@ -64,7 +65,7 @@
     <Compile Include="Assets\Scripts\FieldOfView.cs" />
     <Compile Include="Assets\Scripts\UIManager.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\DestroyCandy.cs" />
+    <Compile Include="Assets\Scripts\PickUpCandy.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
