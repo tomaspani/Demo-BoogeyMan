@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2879169827132902277}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.55, z: 3.37}
+  m_LocalPosition: {x: 0, y: 0.68, z: 0}
   m_LocalScale: {x: 0.45307, y: 0.45307, z: 0.45307}
   m_Children: []
   m_Father: {fileID: 2879169828459189080}
@@ -107,6 +107,8 @@ GameObject:
   - component: {fileID: 2879169828459189080}
   - component: {fileID: 2879169828459189086}
   - component: {fileID: 2879169828459189081}
+  - component: {fileID: 7114441020659663707}
+  - component: {fileID: 1446236668}
   m_Layer: 0
   m_Name: Kid
   m_TagString: kid
@@ -122,7 +124,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2879169828459189083}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.34, y: 0, z: 11.42}
+  m_LocalPosition: {x: 8.75, y: -0.29, z: -7.09}
   m_LocalScale: {x: 1.2210667, y: 1.2210667, z: 1.2210667}
   m_Children:
   - {fileID: 2879169827132902282}
@@ -140,8 +142,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 4.5, y: 1, z: 4.5}
-  m_Center: {x: 0, y: 0.51, z: 3.39}
+  m_Size: {x: 4.5, y: 2.0855696, z: 4.4999995}
+  m_Center: {x: 0, y: 1.0527849, z: 0}
 --- !u!114 &2879169828459189081
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -155,3 +157,42 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   feedback: {fileID: 0}
+--- !u!195 &7114441020659663707
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2879169828459189083}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0.5
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!114 &1446236668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2879169828459189083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f47d9155eaf6104fa1e33e2a3eec261, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Kid: {fileID: 7114441020659663707}
+  CandyPosition: {fileID: 0}
+  TargetedCandy: {fileID: 0}
+  Distance: 0
+  FollowDistance: 7
